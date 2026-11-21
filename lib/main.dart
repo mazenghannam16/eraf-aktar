@@ -36,7 +36,7 @@ class KnowMoreApp extends StatelessWidget {
     return ThemeData(
       useMaterial3: true,
       brightness: brightness,
-      fontFamily: 'NotoArabic',
+      fontFamily: 'CairoBold',
       colorScheme: ColorScheme.fromSeed(
         seedColor: purple,
         brightness: brightness,
