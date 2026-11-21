@@ -1,35 +1,19 @@
 {
-    "name": "اعرف أكتر",
-    "short_name": "اعرف أكتر",
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#7460d2",
-    "theme_color": "#7460d2",
-    "description": "معلومات يومية واختبارات بالعربي",
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
-    "icons": [
-        {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-maskable-192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "maskable"
-        },
-        {
-            "src": "icons/Icon-maskable-512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "maskable"
-        }
-    ]
+  "name": "اعرف أكتر",
+  "short_name": "اعرف أكتر",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#7460d2",
+  "theme_color": "#7460d2",
+  "description": "معلومات يومية واختبارات بالعربي",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
