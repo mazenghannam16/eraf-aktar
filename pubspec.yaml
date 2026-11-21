@@ -93,6 +93,6 @@ flutter:
   # see https://flutter.dev/to/font-from-package
 
   fonts:
-    - family: NotoArabic
+    - family: CairoBold
       fonts:
-        - asset: assets/fonts/NotoSansArabic.ttf
+        - asset: assets/fonts/1-Cairo-Bold.ttf
