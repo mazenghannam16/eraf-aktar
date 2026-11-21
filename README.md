@@ -4,7 +4,7 @@ Arabic-first learning app built with Flutter. A small, complete local-first port
 
 **تطبيق بالعربي، بخط Cairo Bold، ومعلومات وكويزات ونتائج محفوظة على جهازك.**
 
-![Mobile home](docs/1-home-mobile.png)
+![Mobile home](docs/2-home-mobile.png)
 
 ## What works
 
@@ -92,9 +92,9 @@ Created for **Mazen Dev's portfolio with AI-assisted design, implementation, tes
 
 ## Screenshots
 
-![Quiz](docs/1-quiz-mobile.png)
-![Dark mode](docs/1-dark-mobile.png)
-![Desktop](docs/1-home-desktop.png)
+![Quiz](docs/3-quiz-mobile.png)
+![Dark mode](docs/4-dark-mobile.png)
+![Desktop](docs/5-home-desktop.png)
 
 ## بالعربي
 
